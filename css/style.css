@@ -1,0 +1,15 @@
+p{
+    color: blueviolet;
+    font-size: 20px;
+    text-align: start;
+    direction: rtl;
+    letter-spacing: 0.2em;
+    word-spacing: 0.5em;
+    line-height: 2em;
+    text-indent: 1.5em; /*отступ первой строки*/
+    text-shadow: 3px 3px rgb(224, 226, 225);
+}
+
+a{
+    text-decoration: none; /*line color style*/
+}
