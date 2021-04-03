@@ -34,5 +34,5 @@ div{
     width:100px;
     height: 1.5em;
     border-radius: 1em;
-    
+    cursor: pointer;
 }
